@@ -104,7 +104,7 @@ fun ContenidoLogin() {
 
 @Composable
 fun btnInicio(texto: String) {
-    Box( // Boton usado para login e inicio de secion
+    Box( // Boton usado para login e inicio de sesion
         modifier = Modifier
             .fillMaxWidth()
             .height(55.dp)
